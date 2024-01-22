@@ -172,10 +172,12 @@
 
 i:hover {
     color: #f42625;
+    transition: 0.3s ease-in-out;
 }
 
 a:hover {
     color: #f42625;
+    transition: 0.2s ease-in-out;
 }
 
 a {
@@ -191,12 +193,14 @@ a {
     margin-top: 80px;
 }
 #book1:hover {
-    box-shadow: 0px 0px 10px #f42625;
-    border: 1px solid #f42625;
+    box-shadow: 0px 0px 10px #fff;
+    border: 1px solid #28a745;
+    transition: 0.3s ease-in-out;
 }
 #book2:hover {
-    box-shadow: 0px 0px 10px #f42625;
-    border: 1px solid #f42625;
+    box-shadow: 0px 0px 10px #ffffff;
+    border: 1px solid #28a745;
+    transition: 0.3s ease-in-out;
 }
 
 .star-icon {
@@ -221,5 +225,6 @@ input {
     width: 600px;
     margin-left: 410px;
 }
+
 /* about section eneded */
 
