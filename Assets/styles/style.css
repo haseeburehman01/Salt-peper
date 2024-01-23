@@ -220,11 +220,19 @@ input {
     color: #000000;
     border-radius: 5px;
 }
-
+select {
+    width: 540px;
+    height: 44px;
+    background-color: #fff;
+    border: none;
+    color: #000000;
+    border-radius: 5px;
+}
 #form-box {
     width: 600px;
     margin-left: 410px;
 }
+
 
 /* about section eneded */
 
